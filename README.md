@@ -4,3 +4,4 @@ argemiro perez
 sebastian argumedo
 steeven harvei 
 ### Este proyecto noesta enfocado a un REDA. debe ser edutivo
+No han avanzado nada.
